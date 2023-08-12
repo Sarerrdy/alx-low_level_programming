@@ -2,9 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* main – Entry point
+* main – Prints out msg base on random numbers
 *
-* Description: Prints Rand number ,>5 ,<6 ,=0
+* Description: Prints Rand number.
+* This will chech for n>5,n<6,n=0
 *
 * Return: Always 0 (success)
 */

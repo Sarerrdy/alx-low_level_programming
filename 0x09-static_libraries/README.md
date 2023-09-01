@@ -1,0 +1,1 @@
+Exercise on static_libraries
